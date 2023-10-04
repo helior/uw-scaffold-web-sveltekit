@@ -1,6 +1,6 @@
 # A Sveltekit (web framework) Hello World
 Also..
-1. Bootstrap-Dark v1.1.3 (Bootstrap v5.1.3)
+1. Bootstrap v5.2.3
 
 
 ## Install
